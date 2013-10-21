@@ -100,10 +100,9 @@ Systems that support only nodes:
 
 * Centos 5, name used: *centos5*
 
-. Available OSes 
-[width="40%",frame="topbot",options="header"]
+ALl informations above a are summarized in the table below:
 |=======
-| OS          | Name    | Available machines
+| *OS*        | *Name*  | *Available machines*
 | Debian6     | debian  | Server and nodes
 | Centos6     | centos  | Server and nodes
 | Ubunu 12.04 | ubuntu  | Server and nodes
@@ -120,10 +119,10 @@ Branch *master* always points to stable release of Rudder, and adds latest repos
 
 There is also a branch for each version released: *branches/rudder/X*, based on version X, and with possible upgrades to version > X
 
-. Available versions 
+ALl informations above a are summarized in the table below:
 [width="40%",frame="topbot",options="header"]
 |=======      
-| Branch      | Based on     | Available upgrade
+| *Branch*    | *Based on*   | *Available upgrade*
 | master      | stable (2.6) | latest (2.7)
 | branches/rudder/2.8 | 2.8  | N/A
 | branches/rudder/2.7 | 2.7  | 2.8
