@@ -85,16 +85,19 @@ We try to provide all systems supported by Rudder with rudder-vagrant.
 You can launch at the same time, one server Rudder and up to ten nodes.
 
 Use as _vagrant up_ parameters:
+
 * To up a server: *server_[OS_name]*
 * To up a node: *node[1-10]_[OS_name]*
 
 Systems that support both server and nodes:
+
 * Debian 6, name used: *debian*
 * Centos 6, name used: *centos*
 * Ubuntu 12.04, name used: *ubuntu*
 * SLES 11, name used: *sles*
 
 Systems that support only nodes:
+
 * Centos 5, name used: *centos5*
 
 . Available OSes 
